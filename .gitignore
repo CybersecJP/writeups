@@ -1,23 +1,10 @@
-# Created by https://www.toptal.com/developers/gitignore/api/obsidian
-# Edit at https://www.toptal.com/developers/gitignore?templates=obsidian
-
-### Obsidian ###
-# config dir
-.obsidian/
-
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.obsidian
+.pdf
 .grunt
-
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
 node_modules
-
-# Book build output
 _book
 _resources
-# eBook build output
+*_*
 *.epub
 *.mobi
 *.pdf
