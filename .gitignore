@@ -5,10 +5,6 @@
 # config dir
 .obsidian/
 
-# End of https://www.toptal.com/developers/gitignore/api/obsidian
-
-
-
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
@@ -20,7 +16,7 @@ node_modules
 
 # Book build output
 _book
-
+_resources
 # eBook build output
 *.epub
 *.mobi
